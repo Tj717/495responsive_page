@@ -96,7 +96,7 @@ In the `<body>` tag, we have two different `<div>` tags, one is for the navigati
     <a href="section2.html">Section 2</a>
     <a href="section3.html">Section 3</a>
     <a href="see_also.html">See Also</a>
-    <a href="references.html">References</a>
+    
     <!-- "Hamburger menu" / "Bar icon" to toggle the navigation links -->
     <a href="javascript:void(0);" class="icon">
         <i class="fa fa-bars"></i>
